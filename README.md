@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sokha  
+**🚀 Flutter Developer | Hybrid Mobile App Specialist | Tech Enthusiast**
 
-<!--
-**sokhatim/sokhatim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate **Flutter Developer** with expertise in building dynamic, cross-platform applications using Flutter and Dart. I specialize in creating intuitive user interfaces, integrating APIs, and delivering scalable mobile solutions.
 
-Here are some ideas to get you started:
+🔹 **Specialties:** Flutter, Dart, Firebase, RESTful APIs, State Management (Provider, GetX), UI/UX Design Implementation  
+🔹 **Tools:** Visual Studio Code, Android Studio, Git, GitHub, Firebase Console
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projects
+### 📱 SalePro App
+> Welcome to SalePro - your business partner for mobile point-of-sale (POS). With our first release, Version 1.0, we're excited to bring you a host of features designed to simplify your sales process and enhance your business operations. Download SalePro now and experience the future of POS on your mobile device!
+> 
+---
+
+## 🤝 Let's Connect
+- 🌐 [Portfolio](#)  
+- 💼 [LinkedIn](#)  
+- 📧 [Email](mailto:sokhatim23@gmail.com)  
+
+I'm always open to collaborating on exciting projects and ideas. Let's create something awesome together!
+
