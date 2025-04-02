@@ -16,8 +16,10 @@ I'm a passionate **Flutter Developer** with expertise in building dynamic, cross
 ---
 
 ## 🤝 Let's Connect
-- 🌐 [Portfolio](#)  
-- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio](#)
+- 📋 [Upwork](https://www.upwork.com/freelancers/~01a61370142a7fe0c0?mp_source=share)
+- ▶️ [YouTube](https://www.youtube.com/@សុខា-SokhaOfficial/videos)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sokhatim/)
 - 📧 [Email](mailto:sokhatim23@gmail.com)  
 
 I'm always open to collaborating on exciting projects and ideas. Let's create something awesome together!
